@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="Hint_title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string name="add_note">Add Note</string>
+    <string name="warning_fill_fields">Все поля должны быть заполнены</string>
+
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
